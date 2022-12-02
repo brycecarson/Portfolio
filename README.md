@@ -1,6 +1,7 @@
 # PORTFOLIO
 This Portfolio is a small project using HTML / CSS and Bootstrap. I will be using this to show my projects!
-[Live Replit deployment]()
+
+[Live Replit deployment](https://portfolio.brycecarson1.repl.co/)
 
 ## Screenshot:
 ![Screenshot (3)](https://user-images.githubusercontent.com/117067120/205231188-67e11a3d-30af-41bb-bbc2-b2f459d1dd52.png)
